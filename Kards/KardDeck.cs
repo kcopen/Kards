@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Authentication.OAuth.Claims;
-
-namespace Kards
+﻿namespace Kards
 {
     public class KardDeck
     {
